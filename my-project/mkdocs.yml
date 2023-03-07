@@ -1,0 +1,6 @@
+site_name: Practice Site
+site_url: https://practice.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
