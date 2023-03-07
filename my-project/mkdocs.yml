@@ -3,4 +3,5 @@ site_url: https://practice.com/
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+  - Extra Stuff: extrainfo.md
+theme: bootstrap4
